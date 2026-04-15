@@ -1,0 +1,1201 @@
+user_id,login_hour,device,location,is_anomaly
+user_001,5,mobile,USA,1
+user_005,15,tablet,Australia,0
+user_003,23,tablet,Singapore,0
+user_001,11,mobile,Canada,0
+user_001,14,laptop,Canada,0
+user_004,18,laptop,India,1
+user_005,11,laptop,Australia,0
+user_001,15,mobile,USA,0
+user_001,17,mobile,Canada,0
+user_002,13,tablet,UK,0
+user_004,7,laptop,South Korea,0
+user_005,14,mobile,Australia,0
+user_002,15,tablet,Germany,0
+user_003,21,mobile,India,0
+user_002,15,tablet,UK,0
+user_003,21,tablet,Singapore,0
+user_001,11,laptop,USA,0
+user_005,11,mobile,New Zealand,0
+user_005,10,tablet,New Zealand,0
+user_004,17,laptop,Japan,0
+user_002,8,tablet,UK,0
+user_001,9,laptop,Canada,0
+user_003,22,mobile,India,0
+user_001,18,laptop,Canada,0
+user_001,15,mobile,Canada,0
+user_003,21,tablet,Singapore,0
+user_002,10,tablet,Germany,0
+user_002,10,laptop,UK,0
+user_003,20,tablet,India,0
+user_001,18,mobile,USA,0
+user_003,19,tablet,Singapore,0
+user_004,8,laptop,South Korea,0
+user_005,10,laptop,New Zealand,0
+user_001,18,mobile,USA,0
+user_001,16,mobile,USA,0
+user_004,17,laptop,South Korea,0
+user_003,19,mobile,Singapore,0
+user_005,10,laptop,New Zealand,0
+user_002,15,laptop,Germany,0
+user_003,20,tablet,India,0
+user_004,8,laptop,China,1
+user_004,7,laptop,South Korea,0
+user_002,13,laptop,New Zealand,1
+user_005,11,tablet,Australia,0
+user_002,9,laptop,Germany,0
+user_002,11,laptop,Germany,0
+user_002,10,laptop,UK,0
+user_005,13,tablet,New Zealand,0
+user_002,8,tablet,UK,0
+user_005,14,laptop,Australia,0
+user_002,8,tablet,Germany,0
+user_004,17,laptop,China,1
+user_001,11,laptop,USA,0
+user_004,19,laptop,South Korea,0
+user_003,13,mobile,Singapore,1
+user_002,9,laptop,UK,0
+user_001,9,laptop,USA,0
+user_004,9,laptop,India,1
+user_003,4,laptop,USA,1
+user_005,12,mobile,New Zealand,0
+user_005,14,laptop,Australia,0
+user_003,20,mobile,India,0
+user_001,9,mobile,Canada,0
+user_002,14,tablet,UK,0
+user_003,19,tablet,Singapore,0
+user_002,8,tablet,Germany,0
+user_003,22,tablet,Singapore,0
+user_003,21,mobile,India,0
+user_005,15,mobile,Australia,0
+user_003,23,tablet,India,0
+user_005,12,mobile,New Zealand,0
+user_003,23,tablet,Singapore,0
+user_005,22,tablet,China,1
+user_002,13,tablet,UK,0
+user_005,15,laptop,Australia,0
+user_004,7,laptop,South Korea,0
+user_001,14,mobile,USA,0
+user_002,15,laptop,Germany,0
+user_003,19,tablet,India,0
+user_004,19,laptop,South Korea,0
+user_004,19,tablet,South Korea,1
+user_003,22,tablet,Singapore,0
+user_005,11,mobile,New Zealand,0
+user_005,10,laptop,New Zealand,0
+user_005,12,laptop,New Zealand,0
+user_005,10,laptop,Australia,1
+user_003,6,tablet,Singapore,1
+user_004,17,laptop,Japan,0
+user_005,13,laptop,New Zealand,1
+user_005,15,tablet,New Zealand,0
+user_003,21,mobile,Singapore,0
+user_005,14,mobile,Australia,0
+user_005,13,laptop,Australia,0
+user_005,14,tablet,Australia,0
+user_001,20,mobile,USA,1
+user_005,10,tablet,New Zealand,0
+user_002,14,tablet,Germany,0
+user_002,10,tablet,Germany,0
+user_001,16,laptop,USA,0
+user_001,10,mobile,USA,0
+user_003,22,tablet,Singapore,0
+user_002,10,tablet,Germany,0
+user_002,15,tablet,UK,0
+user_005,11,laptop,New Zealand,0
+user_003,19,tablet,India,0
+user_001,14,mobile,USA,0
+user_005,13,tablet,Australia,1
+user_003,22,mobile,India,0
+user_001,17,mobile,Singapore,1
+user_001,17,mobile,USA,0
+user_001,16,laptop,Canada,0
+user_004,9,laptop,South Korea,0
+user_003,19,mobile,Singapore,0
+user_001,17,mobile,Canada,0
+user_004,17,laptop,South Korea,0
+user_002,13,laptop,Russia,1
+user_004,7,laptop,Japan,0
+user_002,8,laptop,UK,0
+user_003,20,tablet,India,0
+user_005,15,tablet,Australia,0
+user_002,15,laptop,Germany,0
+user_002,10,tablet,UK,0
+user_004,9,laptop,Germany,1
+user_002,13,mobile,Germany,1
+user_002,14,laptop,Germany,0
+user_001,12,tablet,Singapore,1
+user_002,13,tablet,UK,0
+user_002,14,tablet,Germany,0
+user_005,14,mobile,Australia,0
+user_005,12,laptop,Australia,0
+user_002,15,laptop,Germany,0
+user_003,17,mobile,Singapore,1
+user_005,14,laptop,New Zealand,0
+user_005,14,tablet,Australia,0
+user_002,10,tablet,South Korea,1
+user_001,9,laptop,USA,0
+user_004,17,laptop,Japan,0
+user_002,11,tablet,Germany,0
+user_003,21,tablet,India,0
+user_002,14,laptop,Germany,0
+user_002,13,mobile,Germany,1
+user_001,15,laptop,USA,0
+user_001,14,mobile,Canada,0
+user_004,8,laptop,Japan,0
+user_004,19,laptop,Japan,0
+user_002,15,tablet,Germany,0
+user_001,16,mobile,USA,0
+user_001,18,mobile,Canada,0
+user_003,21,tablet,Singapore,0
+user_002,13,tablet,UK,0
+user_002,4,laptop,UK,1
+user_002,14,tablet,UK,0
+user_005,13,mobile,New Zealand,0
+user_003,23,tablet,Singapore,0
+user_001,18,laptop,Canada,0
+user_002,15,tablet,UK,0
+user_002,14,laptop,UK,0
+user_004,9,laptop,South Korea,0
+user_004,9,mobile,South Korea,1
+user_001,16,laptop,USA,0
+user_003,17,mobile,India,1
+user_004,8,laptop,Japan,0
+user_005,14,laptop,France,1
+user_003,21,tablet,India,0
+user_004,9,laptop,Japan,0
+user_003,20,mobile,Singapore,0
+user_002,15,laptop,Germany,0
+user_005,10,laptop,New Zealand,0
+user_001,14,mobile,USA,0
+user_004,7,laptop,Japan,0
+user_004,19,laptop,Japan,0
+user_003,20,tablet,India,0
+user_001,15,mobile,Canada,0
+user_003,20,tablet,India,0
+user_001,11,laptop,USA,0
+user_001,14,laptop,USA,0
+user_005,12,laptop,New Zealand,0
+user_005,5,tablet,New Zealand,1
+user_001,10,laptop,USA,0
+user_001,18,mobile,Canada,0
+user_004,17,laptop,Japan,0
+user_001,15,mobile,USA,0
+user_001,18,mobile,Canada,0
+user_002,11,mobile,UK,1
+user_002,9,tablet,UK,0
+user_002,11,tablet,UK,0
+user_005,14,tablet,New Zealand,0
+user_002,14,laptop,Germany,0
+user_002,14,tablet,Germany,0
+user_002,11,laptop,Germany,0
+user_004,9,laptop,Japan,0
+user_004,18,laptop,South Korea,0
+user_004,18,laptop,South Korea,0
+user_005,12,mobile,New Zealand,0
+user_005,15,tablet,New Zealand,0
+user_002,14,laptop,Germany,0
+user_004,17,laptop,South Korea,0
+user_001,18,mobile,Canada,0
+user_005,13,laptop,Australia,0
+user_005,12,mobile,New Zealand,0
+user_003,19,mobile,India,0
+user_001,16,mobile,Canada,0
+user_005,15,mobile,New Zealand,0
+user_001,11,mobile,Canada,0
+user_005,10,mobile,Australia,0
+user_001,16,mobile,Canada,0
+user_003,19,tablet,India,0
+user_005,11,laptop,Australia,0
+user_003,21,mobile,Singapore,0
+user_004,19,mobile,South Korea,1
+user_004,18,mobile,South Korea,1
+user_003,20,tablet,Singapore,0
+user_002,15,tablet,Germany,0
+user_001,17,laptop,USA,0
+user_003,21,tablet,Singapore,0
+user_001,9,mobile,Canada,0
+user_001,16,laptop,USA,0
+user_001,16,mobile,Canada,0
+user_002,14,laptop,UK,0
+user_005,10,tablet,New Zealand,0
+user_005,10,tablet,Australia,1
+user_002,9,laptop,UK,0
+user_001,17,tablet,USA,1
+user_002,11,tablet,Germany,0
+user_005,11,mobile,New Zealand,0
+user_005,12,tablet,New Zealand,0
+user_002,8,laptop,UK,0
+user_002,14,tablet,Germany,0
+user_004,17,laptop,South Korea,0
+user_003,19,mobile,India,0
+user_003,22,tablet,Singapore,0
+user_003,20,tablet,Singapore,0
+user_003,11,laptop,Canada,1
+user_001,10,mobile,USA,0
+user_004,19,laptop,Japan,0
+user_003,23,mobile,Singapore,0
+user_003,19,tablet,Singapore,0
+user_003,21,mobile,Singapore,0
+user_002,21,tablet,Germany,1
+user_003,21,mobile,India,0
+user_003,21,mobile,India,0
+user_002,14,laptop,Germany,0
+user_002,10,laptop,UK,0
+user_001,10,mobile,USA,0
+user_004,7,laptop,South Korea,0
+user_003,20,mobile,India,0
+user_004,9,laptop,South Korea,0
+user_005,13,mobile,New Zealand,0
+user_002,10,laptop,UK,0
+user_001,17,mobile,Canada,0
+user_005,11,mobile,Australia,0
+user_002,14,laptop,Germany,0
+user_001,17,mobile,USA,0
+user_004,17,laptop,South Korea,0
+user_004,9,laptop,South Korea,0
+user_002,10,tablet,USA,1
+user_001,14,mobile,USA,0
+user_003,22,tablet,Singapore,0
+user_002,13,tablet,UK,0
+user_005,12,laptop,South Korea,1
+user_001,14,mobile,Canada,0
+user_005,14,mobile,New Zealand,0
+user_001,22,tablet,Germany,1
+user_002,9,tablet,Germany,0
+user_005,14,tablet,New Zealand,0
+user_001,9,mobile,Canada,0
+user_005,14,mobile,Australia,0
+user_005,11,mobile,Australia,0
+user_005,14,mobile,Australia,0
+user_005,15,mobile,New Zealand,0
+user_004,19,laptop,Japan,0
+user_003,19,tablet,India,0
+user_003,19,tablet,Singapore,0
+user_002,9,tablet,Germany,0
+user_003,23,tablet,India,0
+user_005,11,laptop,New Zealand,0
+user_001,15,mobile,USA,0
+user_002,11,laptop,UK,0
+user_003,21,tablet,Singapore,0
+user_001,14,mobile,Canada,0
+user_001,23,tablet,Singapore,1
+user_005,13,mobile,New Zealand,0
+user_001,14,laptop,USA,0
+user_003,19,tablet,Singapore,0
+user_002,9,tablet,UK,0
+user_005,15,tablet,New Zealand,1
+user_001,17,mobile,Canada,0
+user_005,13,mobile,New Zealand,0
+user_001,17,laptop,Canada,0
+user_003,19,laptop,Singapore,1
+user_002,8,laptop,UK,0
+user_002,11,mobile,Germany,1
+user_003,22,mobile,India,0
+user_002,22,mobile,China,1
+user_003,21,mobile,Singapore,0
+user_005,14,tablet,New Zealand,0
+user_005,14,mobile,New Zealand,0
+user_001,18,mobile,Brazil,1
+user_003,22,mobile,Singapore,0
+user_003,16,tablet,Singapore,1
+user_002,15,tablet,UK,0
+user_001,15,mobile,Canada,0
+user_005,10,tablet,New Zealand,0
+user_005,13,tablet,Singapore,1
+user_003,22,mobile,India,0
+user_003,20,mobile,Singapore,0
+user_002,15,laptop,UK,0
+user_005,14,mobile,Australia,0
+user_005,10,mobile,Australia,0
+user_002,15,tablet,Germany,0
+user_005,12,mobile,Australia,0
+user_001,9,laptop,Canada,0
+user_004,18,laptop,Japan,0
+user_003,8,laptop,UK,1
+user_002,10,laptop,UK,0
+user_001,9,mobile,Canada,0
+user_004,19,laptop,Japan,0
+user_005,6,laptop,New Zealand,1
+user_003,19,mobile,Singapore,0
+user_002,9,mobile,UK,1
+user_002,13,tablet,Germany,0
+user_003,19,laptop,Singapore,1
+user_005,15,tablet,Australia,0
+user_003,21,tablet,India,0
+user_003,11,laptop,UK,1
+user_001,11,mobile,USA,0
+user_003,21,mobile,Singapore,0
+user_003,19,tablet,India,0
+user_002,9,tablet,UK,0
+user_004,18,laptop,South Korea,0
+user_005,13,mobile,Australia,0
+user_005,13,mobile,Australia,0
+user_002,14,tablet,Germany,0
+user_002,11,tablet,Germany,0
+user_001,14,laptop,South Korea,1
+user_005,13,laptop,Australia,0
+user_002,9,laptop,Germany,0
+user_002,13,tablet,Germany,0
+user_002,11,laptop,India,1
+user_004,17,laptop,South Korea,0
+user_005,15,mobile,Japan,1
+user_003,22,tablet,India,0
+user_004,8,laptop,Japan,0
+user_002,14,laptop,UK,0
+user_004,7,laptop,Japan,0
+user_004,19,laptop,Japan,0
+user_002,11,laptop,UK,0
+user_002,8,tablet,Germany,0
+user_003,7,laptop,USA,1
+user_003,19,tablet,India,0
+user_005,15,mobile,New Zealand,0
+user_004,7,laptop,Japan,0
+user_001,9,laptop,USA,0
+user_004,7,laptop,South Korea,0
+user_002,15,tablet,UK,0
+user_005,11,laptop,New Zealand,0
+user_001,17,mobile,Canada,0
+user_005,11,laptop,Australia,0
+user_003,22,mobile,India,0
+user_004,8,laptop,South Korea,0
+user_001,17,mobile,Canada,0
+user_005,10,mobile,New Zealand,0
+user_002,11,laptop,Germany,0
+user_003,20,tablet,Singapore,0
+user_001,20,laptop,Canada,1
+user_003,19,laptop,India,1
+user_003,22,mobile,Singapore,0
+user_001,18,laptop,USA,0
+user_002,8,laptop,UK,0
+user_005,15,laptop,Australia,0
+user_002,13,tablet,Germany,0
+user_002,12,laptop,UK,1
+user_005,22,mobile,New Zealand,1
+user_005,10,mobile,Australia,0
+user_004,9,laptop,Japan,0
+user_004,19,laptop,South Korea,0
+user_003,19,mobile,France,1
+user_001,11,mobile,Canada,0
+user_003,19,tablet,India,0
+user_001,16,laptop,USA,0
+user_004,9,laptop,Japan,0
+user_005,11,laptop,Singapore,1
+user_002,11,laptop,UK,0
+user_005,13,laptop,Australia,0
+user_001,14,laptop,Canada,0
+user_001,10,mobile,Canada,0
+user_001,11,mobile,USA,0
+user_002,15,tablet,Germany,0
+user_001,16,mobile,USA,0
+user_003,19,mobile,Singapore,0
+user_003,22,mobile,Singapore,0
+user_003,20,mobile,India,0
+user_001,16,mobile,Canada,0
+user_001,18,mobile,Canada,0
+user_003,19,mobile,Singapore,0
+user_005,7,laptop,Japan,1
+user_004,17,laptop,South Korea,0
+user_001,16,mobile,Canada,0
+user_004,8,laptop,South Korea,0
+user_003,19,mobile,India,0
+user_005,15,laptop,Australia,0
+user_005,22,laptop,New Zealand,1
+user_002,14,tablet,Germany,0
+user_002,11,tablet,Australia,1
+user_003,23,mobile,India,0
+user_003,22,tablet,India,0
+user_003,23,mobile,Singapore,0
+user_003,20,mobile,Singapore,0
+user_005,15,laptop,Australia,0
+user_005,11,tablet,New Zealand,0
+user_001,14,laptop,USA,0
+user_004,9,laptop,South Korea,0
+user_004,9,laptop,Japan,0
+user_003,22,tablet,India,0
+user_003,22,mobile,India,0
+user_003,22,mobile,India,0
+user_002,10,laptop,UK,0
+user_005,10,laptop,Australia,0
+user_005,15,laptop,Australia,0
+user_005,12,mobile,New Zealand,0
+user_005,14,tablet,New Zealand,0
+user_005,15,mobile,New Zealand,0
+user_003,21,mobile,Russia,1
+user_003,19,tablet,India,0
+user_004,18,laptop,Japan,0
+user_002,10,laptop,UK,0
+user_002,8,tablet,UK,0
+user_004,8,laptop,Japan,0
+user_001,17,mobile,Canada,0
+user_005,12,tablet,New Zealand,0
+user_004,8,laptop,South Korea,0
+user_004,17,laptop,South Korea,0
+user_004,18,laptop,Japan,0
+user_002,10,tablet,Germany,0
+user_002,9,tablet,UK,0
+user_004,9,laptop,South Korea,0
+user_005,13,laptop,New Zealand,0
+user_004,19,laptop,South Korea,0
+user_005,12,laptop,Australia,0
+user_001,18,laptop,USA,0
+user_004,8,laptop,South Korea,0
+user_001,8,laptop,Canada,1
+user_005,12,mobile,Australia,0
+user_004,17,laptop,Japan,0
+user_001,14,mobile,USA,0
+user_001,9,mobile,USA,0
+user_002,10,tablet,Germany,0
+user_003,21,mobile,Singapore,0
+user_003,19,mobile,India,0
+user_003,19,mobile,Singapore,0
+user_002,13,tablet,UK,0
+user_001,14,mobile,USA,0
+user_002,15,laptop,UK,0
+user_005,6,mobile,Brazil,1
+user_002,9,mobile,Germany,1
+user_004,18,laptop,Japan,0
+user_002,13,tablet,UK,0
+user_001,9,laptop,Canada,0
+user_003,4,laptop,Australia,1
+user_004,17,laptop,South Korea,0
+user_004,17,laptop,South Korea,0
+user_001,17,laptop,Canada,0
+user_004,9,laptop,South Korea,0
+user_005,12,mobile,New Zealand,0
+user_003,23,mobile,India,0
+user_001,15,mobile,Canada,0
+user_002,10,laptop,Germany,0
+user_001,18,mobile,USA,0
+user_001,11,tablet,USA,1
+user_003,7,tablet,India,1
+user_001,11,mobile,Canada,0
+user_002,8,tablet,UK,0
+user_003,22,laptop,Singapore,1
+user_002,14,tablet,UK,0
+user_004,7,laptop,Japan,0
+user_004,8,laptop,South Korea,0
+user_003,20,tablet,India,0
+user_004,7,laptop,South Korea,0
+user_005,15,laptop,Australia,0
+user_005,14,mobile,Australia,0
+user_003,19,mobile,India,0
+user_002,10,laptop,UK,0
+user_003,23,tablet,Singapore,0
+user_003,20,mobile,Singapore,0
+user_004,9,laptop,Japan,0
+user_005,15,mobile,New Zealand,0
+user_002,8,laptop,UK,0
+user_002,10,tablet,Germany,0
+user_002,10,laptop,Germany,0
+user_005,13,tablet,Australia,0
+user_003,22,mobile,Singapore,0
+user_003,21,mobile,Singapore,0
+user_003,19,mobile,Singapore,0
+user_005,12,mobile,New Zealand,0
+user_005,11,tablet,New Zealand,0
+user_002,10,laptop,Germany,0
+user_001,16,mobile,France,1
+user_001,15,mobile,USA,0
+user_005,3,laptop,Australia,1
+user_004,19,laptop,Russia,1
+user_003,21,mobile,Singapore,0
+user_004,9,laptop,South Korea,0
+user_003,23,tablet,India,0
+user_002,11,tablet,New Zealand,1
+user_005,1,tablet,Australia,1
+user_004,9,laptop,Japan,0
+user_003,23,tablet,Singapore,0
+user_001,15,laptop,Canada,0
+user_003,19,tablet,Singapore,0
+user_002,11,tablet,UK,0
+user_001,14,mobile,Canada,0
+user_001,14,laptop,USA,0
+user_001,9,laptop,Canada,0
+user_001,15,tablet,Canada,1
+user_005,14,tablet,South Korea,1
+user_001,1,laptop,Canada,1
+user_005,13,laptop,New Zealand,0
+user_005,15,mobile,Australia,0
+user_003,22,tablet,Singapore,0
+user_004,19,laptop,Japan,0
+user_001,11,laptop,USA,0
+user_004,6,laptop,Japan,1
+user_003,23,tablet,Singapore,0
+user_005,13,tablet,New Zealand,0
+user_001,17,laptop,Canada,0
+user_005,18,tablet,Australia,1
+user_001,11,mobile,Canada,0
+user_001,14,mobile,USA,0
+user_004,19,laptop,South Korea,0
+user_001,17,laptop,USA,0
+user_005,21,tablet,USA,1
+user_003,21,tablet,India,0
+user_005,11,tablet,Australia,0
+user_002,9,tablet,Germany,0
+user_002,15,laptop,UK,0
+user_002,10,tablet,Germany,0
+user_003,23,mobile,India,0
+user_003,19,laptop,Singapore,1
+user_005,14,tablet,Australia,0
+user_005,13,laptop,Australia,0
+user_005,15,tablet,New Zealand,1
+user_001,11,laptop,Canada,0
+user_005,14,laptop,New Zealand,0
+user_004,22,laptop,South Korea,1
+user_003,3,laptop,Japan,1
+user_004,8,laptop,South Korea,0
+user_004,9,laptop,UK,1
+user_003,20,mobile,Singapore,0
+user_004,18,laptop,Japan,0
+user_002,13,laptop,UK,0
+user_005,14,laptop,New Zealand,0
+user_005,11,laptop,New Zealand,0
+user_004,17,laptop,South Korea,0
+user_005,13,laptop,New Zealand,0
+user_003,22,tablet,India,0
+user_001,11,laptop,Canada,0
+user_005,11,mobile,Australia,0
+user_003,4,laptop,Brazil,1
+user_005,14,tablet,New Zealand,0
+user_002,15,tablet,Germany,0
+user_004,18,laptop,Japan,0
+user_003,19,mobile,India,0
+user_003,21,laptop,India,1
+user_005,23,mobile,New Zealand,1
+user_005,10,laptop,New Zealand,0
+user_003,21,tablet,Singapore,0
+user_001,16,laptop,USA,0
+user_001,14,laptop,Canada,0
+user_004,9,laptop,Brazil,1
+user_002,14,laptop,Germany,0
+user_005,12,tablet,Australia,0
+user_003,22,tablet,Singapore,0
+user_002,15,laptop,Germany,0
+user_005,12,mobile,New Zealand,0
+user_001,14,laptop,Canada,0
+user_002,9,tablet,UK,0
+user_001,14,laptop,Canada,0
+user_005,12,mobile,New Zealand,0
+user_001,17,mobile,USA,0
+user_005,14,laptop,Australia,0
+user_001,16,laptop,Canada,0
+user_005,15,mobile,Australia,0
+user_003,21,tablet,Singapore,0
+user_001,16,laptop,Canada,0
+user_002,13,laptop,Germany,0
+user_001,9,mobile,USA,0
+user_005,10,laptop,Australia,0
+user_001,9,tablet,Canada,1
+user_001,15,mobile,Canada,0
+user_004,18,laptop,Japan,0
+user_001,15,laptop,USA,0
+user_001,14,mobile,Canada,0
+user_001,15,mobile,Canada,0
+user_005,11,mobile,New Zealand,0
+user_003,20,tablet,Singapore,0
+user_001,9,mobile,USA,0
+user_002,8,tablet,Germany,0
+user_005,12,laptop,Germany,1
+user_005,15,mobile,Australia,0
+user_003,23,laptop,Singapore,1
+user_003,21,mobile,India,0
+user_004,8,laptop,Japan,0
+user_004,7,laptop,Japan,0
+user_003,20,tablet,Singapore,0
+user_004,18,laptop,Japan,0
+user_004,6,laptop,Japan,1
+user_003,21,mobile,India,0
+user_005,21,tablet,UK,1
+user_003,21,mobile,Singapore,0
+user_003,20,tablet,Singapore,0
+user_004,18,laptop,Japan,0
+user_005,12,mobile,New Zealand,0
+user_002,11,laptop,UK,0
+user_001,9,mobile,Canada,0
+user_002,14,tablet,Germany,0
+user_005,10,tablet,Australia,0
+user_003,20,tablet,India,0
+user_002,9,tablet,UK,0
+user_005,4,mobile,Australia,1
+user_002,11,laptop,Germany,0
+user_005,7,laptop,New Zealand,1
+user_005,11,tablet,New Zealand,0
+user_003,22,mobile,India,0
+user_001,11,laptop,Canada,0
+user_003,22,mobile,Singapore,0
+user_002,13,tablet,UK,0
+user_004,9,laptop,Japan,0
+user_001,18,laptop,Canada,0
+user_004,8,laptop,Japan,0
+user_001,15,mobile,Canada,0
+user_005,15,laptop,New Zealand,0
+user_003,23,tablet,Singapore,0
+user_003,23,mobile,India,0
+user_003,7,laptop,USA,1
+user_004,7,laptop,Japan,0
+user_003,20,tablet,Singapore,0
+user_003,20,tablet,India,0
+user_004,19,laptop,South Korea,0
+user_004,7,laptop,South Korea,0
+user_004,18,laptop,South Korea,0
+user_003,22,tablet,Singapore,0
+user_002,11,tablet,Germany,0
+user_003,13,mobile,Singapore,1
+user_005,15,tablet,Australia,1
+user_003,23,mobile,India,0
+user_004,7,laptop,Japan,0
+user_003,20,mobile,Singapore,0
+user_004,9,laptop,South Korea,0
+user_004,7,laptop,South Korea,0
+user_003,19,mobile,Singapore,0
+user_002,8,laptop,UK,0
+user_001,18,laptop,Canada,0
+user_005,14,mobile,Australia,0
+user_005,21,mobile,India,1
+user_002,9,laptop,UK,0
+user_005,15,tablet,Australia,0
+user_003,19,tablet,Singapore,0
+user_001,15,laptop,USA,0
+user_003,22,tablet,India,0
+user_003,21,mobile,Singapore,0
+user_001,17,laptop,Canada,0
+user_001,9,mobile,USA,0
+user_003,23,tablet,Singapore,0
+user_003,19,mobile,India,0
+user_004,8,laptop,South Korea,0
+user_004,7,laptop,Japan,0
+user_002,13,tablet,Germany,0
+user_004,9,laptop,South Korea,0
+user_002,10,tablet,Germany,0
+user_002,7,tablet,UK,1
+user_001,14,mobile,USA,0
+user_004,7,laptop,Japan,0
+user_004,17,laptop,South Korea,0
+user_001,16,mobile,USA,0
+user_002,4,mobile,Canada,1
+user_004,7,laptop,Japan,0
+user_004,7,laptop,Japan,0
+user_004,17,laptop,Japan,0
+user_002,11,laptop,Germany,0
+user_003,19,tablet,India,0
+user_005,14,tablet,Australia,0
+user_005,11,laptop,Australia,0
+user_004,18,laptop,South Korea,0
+user_003,19,tablet,India,0
+user_004,8,laptop,South Korea,0
+user_004,19,laptop,South Korea,0
+user_005,13,tablet,New Zealand,0
+user_001,16,laptop,Canada,0
+user_004,18,laptop,Japan,0
+user_005,12,tablet,Russia,1
+user_004,17,laptop,Japan,0
+user_005,12,tablet,Australia,0
+user_005,12,mobile,Australia,0
+user_002,8,laptop,UK,0
+user_002,11,tablet,Germany,0
+user_004,7,laptop,Japan,0
+user_001,15,mobile,Canada,0
+user_005,15,tablet,New Zealand,0
+user_003,23,mobile,Singapore,0
+user_003,23,tablet,Germany,1
+user_005,12,laptop,Australia,0
+user_001,17,mobile,USA,0
+user_004,18,laptop,Japan,0
+user_004,17,laptop,Japan,0
+user_001,15,mobile,USA,0
+user_005,12,mobile,New Zealand,0
+user_004,9,laptop,Japan,0
+user_002,14,tablet,UK,0
+user_005,13,mobile,Australia,0
+user_004,8,laptop,South Korea,0
+user_002,15,laptop,UK,0
+user_005,12,mobile,New Zealand,0
+user_002,13,tablet,UK,0
+user_002,11,tablet,Germany,0
+user_001,17,laptop,Canada,0
+user_001,15,mobile,Canada,0
+user_004,9,laptop,South Korea,0
+user_004,18,tablet,South Korea,1
+user_005,15,tablet,Australia,0
+user_003,21,mobile,Singapore,0
+user_002,2,laptop,UK,1
+user_004,15,laptop,South Korea,1
+user_005,17,laptop,Australia,1
+user_002,14,laptop,France,1
+user_005,11,mobile,New Zealand,0
+user_002,15,laptop,Germany,0
+user_003,21,mobile,Singapore,0
+user_004,9,laptop,South Korea,0
+user_005,15,tablet,New Zealand,0
+user_002,14,tablet,UK,0
+user_002,8,laptop,Brazil,1
+user_005,11,laptop,New Zealand,0
+user_004,7,laptop,South Korea,0
+user_003,21,tablet,India,0
+user_002,8,laptop,Germany,0
+user_001,14,laptop,USA,0
+user_003,20,mobile,Singapore,0
+user_002,15,tablet,Germany,0
+user_004,17,laptop,South Korea,0
+user_003,22,laptop,Singapore,1
+user_002,1,mobile,Canada,1
+user_002,8,laptop,Germany,0
+user_005,15,tablet,New Zealand,1
+user_003,21,tablet,India,0
+user_003,19,mobile,Singapore,0
+user_003,20,mobile,Singapore,0
+user_003,21,mobile,India,0
+user_004,7,laptop,South Korea,0
+user_001,17,mobile,USA,0
+user_002,15,tablet,UK,0
+user_002,15,laptop,UK,0
+user_003,22,mobile,India,0
+user_005,10,tablet,Australia,0
+user_003,19,mobile,Singapore,0
+user_004,9,laptop,Japan,0
+user_001,11,mobile,USA,0
+user_003,19,mobile,Singapore,0
+user_002,8,laptop,Germany,0
+user_004,7,laptop,South Korea,0
+user_002,9,tablet,UK,0
+user_005,11,tablet,New Zealand,0
+user_002,4,tablet,UK,1
+user_005,14,tablet,Australia,0
+user_005,11,mobile,Australia,0
+user_004,18,laptop,South Korea,0
+user_001,9,mobile,Canada,0
+user_002,9,tablet,Germany,0
+user_003,23,tablet,India,0
+user_001,17,mobile,Canada,0
+user_001,6,mobile,USA,1
+user_003,19,tablet,Singapore,0
+user_005,15,tablet,New Zealand,0
+user_005,12,mobile,Australia,0
+user_002,0,mobile,India,1
+user_005,15,laptop,New Zealand,0
+user_002,10,tablet,UK,0
+user_005,14,tablet,New Zealand,0
+user_001,16,laptop,USA,0
+user_004,13,mobile,New Zealand,1
+user_005,11,laptop,New Zealand,0
+user_002,15,tablet,Germany,0
+user_002,14,laptop,Germany,0
+user_002,11,laptop,Germany,0
+user_002,13,laptop,Germany,0
+user_003,22,tablet,Singapore,0
+user_005,10,mobile,Australia,0
+user_004,18,laptop,South Korea,0
+user_002,9,laptop,Germany,0
+user_005,10,tablet,Australia,0
+user_005,11,laptop,New Zealand,0
+user_005,14,laptop,Australia,0
+user_005,14,laptop,New Zealand,0
+user_004,18,laptop,South Korea,0
+user_004,8,laptop,South Korea,0
+user_003,21,tablet,Singapore,0
+user_001,9,mobile,Canada,0
+user_003,22,tablet,Singapore,0
+user_001,9,mobile,USA,0
+user_002,11,tablet,UK,0
+user_002,10,laptop,Germany,0
+user_005,13,laptop,New Zealand,0
+user_001,10,mobile,USA,0
+user_005,11,tablet,New Zealand,0
+user_004,17,laptop,Japan,0
+user_001,16,mobile,USA,0
+user_001,10,laptop,Canada,0
+user_004,18,laptop,South Korea,0
+user_001,13,laptop,Canada,1
+user_004,8,laptop,Japan,0
+user_001,9,laptop,Canada,0
+user_003,22,mobile,India,0
+user_001,11,laptop,USA,0
+user_005,13,tablet,New Zealand,0
+user_001,18,mobile,Canada,0
+user_001,18,mobile,USA,0
+user_002,11,laptop,UK,0
+user_004,9,laptop,South Korea,0
+user_003,19,tablet,India,0
+user_002,15,tablet,UK,0
+user_003,9,tablet,India,1
+user_001,17,mobile,USA,0
+user_005,13,laptop,Australia,0
+user_002,14,tablet,UK,0
+user_002,8,laptop,Germany,0
+user_004,17,laptop,Japan,0
+user_005,11,tablet,New Zealand,0
+user_003,20,mobile,India,0
+user_001,23,laptop,USA,1
+user_002,15,tablet,UK,0
+user_002,10,laptop,Germany,0
+user_004,7,laptop,South Korea,0
+user_002,8,tablet,Germany,0
+user_004,9,laptop,Russia,1
+user_001,18,mobile,Canada,0
+user_001,14,laptop,Canada,0
+user_003,22,tablet,India,0
+user_004,8,laptop,Japan,0
+user_004,7,laptop,South Korea,0
+user_002,8,laptop,Germany,0
+user_001,18,mobile,Canada,0
+user_004,8,laptop,Japan,0
+user_002,5,laptop,Germany,1
+user_002,10,tablet,UK,0
+user_001,15,laptop,USA,0
+user_005,15,laptop,New Zealand,0
+user_005,13,laptop,Australia,0
+user_002,11,laptop,Singapore,1
+user_002,8,tablet,UK,0
+user_001,11,laptop,Canada,0
+user_003,20,tablet,India,0
+user_002,11,laptop,UK,0
+user_003,20,mobile,India,0
+user_003,4,laptop,Australia,1
+user_003,5,laptop,South Korea,1
+user_002,11,tablet,Germany,0
+user_001,1,tablet,Australia,1
+user_002,8,tablet,Germany,0
+user_005,11,laptop,New Zealand,0
+user_001,15,laptop,Canada,0
+user_004,19,laptop,South Korea,0
+user_003,20,mobile,India,0
+user_003,20,tablet,Singapore,0
+user_005,13,laptop,Australia,0
+user_004,10,mobile,France,1
+user_002,14,tablet,Germany,0
+user_002,8,laptop,Germany,0
+user_002,9,tablet,Germany,0
+user_004,0,tablet,Canada,1
+user_002,14,laptop,Germany,0
+user_002,8,tablet,UK,0
+user_004,17,laptop,Japan,0
+user_004,18,laptop,South Korea,0
+user_005,12,mobile,New Zealand,0
+user_002,9,laptop,Germany,0
+user_003,23,mobile,Singapore,0
+user_003,21,tablet,China,1
+user_001,15,mobile,USA,0
+user_004,17,laptop,South Korea,0
+user_005,10,laptop,Singapore,1
+user_005,15,laptop,Australia,0
+user_002,14,tablet,UK,0
+user_001,14,mobile,USA,0
+user_004,17,laptop,Japan,0
+user_005,15,laptop,New Zealand,0
+user_003,19,tablet,India,0
+user_004,16,tablet,Brazil,1
+user_001,10,mobile,USA,0
+user_001,10,mobile,Canada,0
+user_002,9,mobile,UK,1
+user_003,19,tablet,Singapore,0
+user_003,21,mobile,Singapore,0
+user_001,10,laptop,USA,0
+user_002,15,laptop,Germany,0
+user_005,15,laptop,New Zealand,0
+user_005,2,laptop,Germany,1
+user_005,10,tablet,Australia,0
+user_001,11,laptop,USA,0
+user_003,23,tablet,India,0
+user_002,13,laptop,Germany,0
+user_001,17,mobile,USA,0
+user_003,21,mobile,India,0
+user_003,19,tablet,Singapore,0
+user_001,10,mobile,USA,0
+user_004,17,laptop,Japan,0
+user_004,19,laptop,South Korea,0
+user_001,10,laptop,Canada,0
+user_004,18,laptop,Japan,0
+user_004,2,mobile,India,1
+user_002,13,laptop,Germany,0
+user_001,20,laptop,USA,1
+user_001,9,laptop,Canada,0
+user_005,15,tablet,Australia,0
+user_003,22,tablet,India,0
+user_002,15,tablet,UK,0
+user_003,22,mobile,India,0
+user_002,14,mobile,UK,1
+user_001,11,mobile,Canada,0
+user_002,11,mobile,UK,1
+user_004,18,laptop,South Korea,0
+user_001,11,mobile,Canada,0
+user_005,10,mobile,New Zealand,0
+user_001,14,mobile,USA,0
+user_001,10,laptop,USA,0
+user_005,8,laptop,Singapore,1
+user_004,8,laptop,South Korea,0
+user_004,17,laptop,South Korea,0
+user_003,22,tablet,India,0
+user_005,19,mobile,UK,1
+user_004,7,laptop,Japan,0
+user_005,10,tablet,New Zealand,0
+user_003,20,tablet,USA,1
+user_003,23,tablet,South Korea,1
+user_002,8,tablet,UK,0
+user_003,6,tablet,Singapore,1
+user_005,17,mobile,France,1
+user_003,12,laptop,China,1
+user_002,15,laptop,UK,0
+user_002,15,laptop,UK,0
+user_004,7,laptop,South Korea,0
+user_001,15,tablet,USA,1
+user_005,11,tablet,New Zealand,1
+user_001,9,mobile,USA,0
+user_004,9,laptop,Japan,0
+user_003,23,tablet,Singapore,0
+user_003,19,tablet,India,0
+user_001,12,tablet,UK,1
+user_004,7,laptop,South Korea,0
+user_004,17,laptop,South Korea,0
+user_002,8,laptop,UK,0
+user_005,2,tablet,New Zealand,1
+user_001,15,mobile,USA,0
+user_005,13,tablet,New Zealand,0
+user_001,15,mobile,USA,0
+user_005,13,tablet,Germany,1
+user_002,15,laptop,UK,0
+user_005,11,laptop,Australia,0
+user_002,22,mobile,Canada,1
+user_004,18,laptop,South Korea,0
+user_002,11,tablet,UK,0
+user_001,14,laptop,Canada,0
+user_004,7,laptop,Japan,0
+user_002,14,tablet,UK,0
+user_005,12,mobile,Australia,0
+user_003,19,tablet,Singapore,0
+user_003,23,tablet,Singapore,0
+user_005,10,mobile,Australia,0
+user_001,17,mobile,USA,0
+user_001,3,tablet,China,1
+user_001,14,mobile,Canada,0
+user_001,15,laptop,USA,0
+user_002,9,laptop,UK,0
+user_003,19,mobile,India,0
+user_001,9,laptop,USA,0
+user_001,15,laptop,Canada,0
+user_002,1,tablet,Germany,1
+user_003,23,tablet,Singapore,0
+user_002,5,laptop,Germany,1
+user_003,20,tablet,Singapore,0
+user_004,22,laptop,South Korea,1
+user_005,11,laptop,Australia,0
+user_001,10,mobile,USA,0
+user_003,23,mobile,India,0
+user_003,20,mobile,India,0
+user_002,10,laptop,Germany,0
+user_003,22,mobile,Singapore,0
+user_003,21,tablet,India,0
+user_005,12,laptop,Australia,0
+user_003,23,tablet,India,0
+user_002,0,mobile,China,1
+user_003,22,tablet,Singapore,0
+user_001,17,laptop,USA,0
+user_004,17,laptop,Japan,0
+user_003,12,mobile,India,1
+user_001,11,tablet,Canada,1
+user_003,11,laptop,France,1
+user_004,17,laptop,Japan,0
+user_002,15,laptop,UK,0
+user_001,9,laptop,USA,0
+user_003,21,tablet,Singapore,0
+user_002,8,tablet,Germany,0
+user_005,10,laptop,Australia,0
+user_003,22,tablet,Singapore,0
+user_003,23,mobile,Singapore,0
+user_003,20,mobile,Singapore,0
+user_004,19,laptop,Japan,0
+user_004,18,laptop,South Korea,0
+user_003,19,mobile,India,0
+user_004,23,tablet,Brazil,1
+user_004,21,mobile,Singapore,1
+user_005,10,tablet,New Zealand,0
+user_002,14,tablet,Germany,0
+user_003,20,mobile,India,0
+user_002,10,tablet,Germany,0
+user_005,15,tablet,Australia,0
+user_001,16,laptop,USA,0
+user_005,10,tablet,New Zealand,0
+user_003,23,mobile,New Zealand,1
+user_003,20,tablet,Singapore,0
+user_002,8,tablet,Germany,0
+user_001,14,laptop,China,1
+user_005,14,laptop,Australia,0
+user_005,13,tablet,New Zealand,0
+user_003,20,mobile,Singapore,0
+user_005,14,laptop,Australia,0
+user_001,18,mobile,USA,0
+user_003,21,tablet,Russia,1
+user_003,22,mobile,Singapore,0
+user_005,10,mobile,Australia,0
+user_005,11,laptop,Australia,0
+user_005,15,mobile,Australia,0
+user_005,14,mobile,New Zealand,0
+user_004,9,laptop,Japan,0
+user_003,20,mobile,India,0
+user_005,14,mobile,Australia,0
+user_004,7,laptop,South Korea,0
+user_005,14,laptop,Australia,0
+user_005,11,mobile,Australia,0
+user_002,14,mobile,Germany,1
+user_002,15,tablet,Germany,0
+user_004,17,laptop,Japan,0
+user_001,14,mobile,Canada,0
+user_005,15,mobile,Australia,0
+user_004,9,laptop,South Korea,0
+user_005,8,mobile,New Zealand,1
+user_004,7,laptop,South Korea,0
+user_005,13,tablet,Australia,0
+user_004,18,laptop,South Korea,0
+user_003,22,tablet,Singapore,0
+user_002,9,laptop,UK,0
+user_005,14,laptop,New Zealand,0
+user_005,13,laptop,Australia,0
+user_004,18,laptop,Japan,0
+user_002,10,mobile,Germany,1
+user_004,8,laptop,South Korea,0
+user_003,19,tablet,Singapore,0
+user_005,21,laptop,New Zealand,1
+user_005,14,tablet,New Zealand,0
+user_002,9,tablet,Germany,0
+user_005,10,laptop,New Zealand,0
+user_004,17,laptop,South Korea,0
+user_003,19,mobile,India,0
+user_004,8,laptop,South Korea,0
+user_001,18,tablet,USA,1
+user_004,17,mobile,Japan,1
+user_001,14,laptop,Canada,0
+user_005,14,laptop,New Zealand,0
+user_001,16,tablet,Canada,1
+user_005,13,mobile,New Zealand,0
+user_001,9,mobile,USA,0
+user_005,14,tablet,New Zealand,0
+user_004,19,laptop,South Korea,0
+user_004,15,tablet,Singapore,1
+user_003,20,mobile,Singapore,0
+user_004,18,laptop,Japan,0
+user_002,19,mobile,Canada,1
+user_004,8,laptop,South Korea,0
+user_004,19,laptop,South Korea,0
+user_005,11,tablet,Australia,1
+user_004,8,laptop,South Korea,0
+user_004,19,laptop,South Korea,0
+user_004,17,laptop,South Korea,0
+user_002,9,laptop,UK,0
+user_002,9,laptop,New Zealand,1
+user_002,8,laptop,UK,0
+user_003,19,mobile,Singapore,0
+user_003,19,tablet,Singapore,0
+user_003,23,tablet,India,0
+user_001,16,laptop,USA,0
+user_004,18,laptop,South Korea,0
+user_005,7,laptop,New Zealand,1
+user_005,10,tablet,Japan,1
+user_001,11,laptop,USA,0
+user_003,19,tablet,Singapore,0
+user_001,14,laptop,Canada,0
+user_004,18,laptop,South Korea,0
+user_005,11,laptop,New Zealand,0
+user_004,9,laptop,Japan,0
+user_002,9,laptop,UK,0
+user_004,18,laptop,Japan,0
+user_001,18,laptop,Canada,0
+user_005,9,tablet,Australia,1
+user_002,21,tablet,UK,1
+user_004,17,laptop,South Korea,0
+user_002,10,laptop,UK,0
+user_005,10,mobile,Australia,0
+user_002,8,tablet,Germany,0
+user_005,14,laptop,USA,1
+user_002,13,laptop,Germany,0
+user_004,3,laptop,South Korea,1
+user_005,15,laptop,New Zealand,0
+user_003,20,mobile,Singapore,0
+user_002,15,tablet,UK,0
+user_001,14,laptop,Canada,0
+user_005,10,tablet,Australia,0
+user_002,15,tablet,Germany,0
+user_004,7,laptop,Brazil,1
+user_001,14,laptop,Canada,0
+user_002,8,laptop,UK,0
+user_005,15,tablet,Australia,0
+user_003,22,tablet,India,0
+user_001,5,tablet,India,1
+user_001,9,laptop,Canada,0
+user_004,8,laptop,Japan,0
+user_001,15,laptop,Canada,0
+user_005,14,tablet,Australia,0
+user_001,18,mobile,Canada,0
+user_005,13,mobile,Australia,0
+user_005,14,tablet,New Zealand,1
+user_001,9,laptop,USA,0
+user_005,15,laptop,Australia,0
+user_005,15,mobile,Australia,0
+user_002,15,laptop,Germany,0
+user_002,6,mobile,Canada,1
+user_002,11,laptop,UK,0
+user_001,9,laptop,USA,0
+user_001,16,laptop,USA,0
+user_005,15,laptop,Australia,0
+user_004,17,laptop,South Korea,0
+user_001,16,laptop,Canada,0
+user_002,11,tablet,Germany,0
+user_005,10,mobile,Australia,0
+user_001,18,laptop,USA,0
+user_002,13,laptop,Canada,1
+user_004,7,laptop,South Korea,0
+user_004,17,laptop,Brazil,1
+user_005,11,mobile,New Zealand,1
+user_003,23,laptop,India,1
+user_001,14,laptop,Canada,0
+user_003,20,mobile,Singapore,0
+user_003,23,mobile,Singapore,0
+user_002,13,laptop,Germany,0
+user_002,8,mobile,UK,1
+user_001,16,laptop,USA,0
+user_005,14,tablet,New Zealand,0
+user_003,22,tablet,Singapore,0
+user_005,15,mobile,New Zealand,0
+user_003,22,tablet,Singapore,0
+user_001,14,laptop,Canada,0
+user_001,10,laptop,Canada,0
+user_005,11,tablet,Australia,0
+user_004,8,laptop,South Korea,0
+user_002,15,laptop,Germany,0
+user_004,18,laptop,Japan,0
+user_002,13,tablet,UK,0
+user_001,15,mobile,Canada,0
+user_005,11,tablet,South Korea,1
+user_003,23,mobile,India,0
+user_001,18,laptop,Canada,0
+user_005,18,mobile,Australia,1
+user_001,14,mobile,Canada,0
+user_004,17,laptop,South Korea,0
+user_004,17,laptop,Japan,0
+user_005,12,tablet,Australia,0
+user_004,19,laptop,Japan,0
+user_002,11,tablet,Germany,0
+user_003,2,mobile,India,1
+user_004,8,laptop,Japan,0
+user_005,10,laptop,Australia,0
+user_004,9,laptop,Japan,0
+user_001,16,laptop,Canada,0
+user_004,17,laptop,Japan,0
+user_002,14,tablet,UK,0
+user_001,15,laptop,Canada,0
+user_002,13,laptop,Germany,0
+user_002,11,tablet,Germany,0
+user_001,11,mobile,Canada,0
+user_001,17,laptop,Canada,0
+user_004,18,laptop,South Korea,0
+user_002,10,tablet,UK,0
+user_004,19,laptop,South Korea,0
+user_002,13,tablet,Brazil,1
+user_004,18,laptop,Japan,0
+user_004,9,laptop,South Korea,0
+user_005,12,tablet,New Zealand,0
+user_004,19,laptop,South Korea,0
+user_003,10,mobile,India,1
+user_002,18,mobile,New Zealand,1
+user_004,22,tablet,France,1
+user_002,14,laptop,Germany,0
+user_001,16,tablet,USA,1
