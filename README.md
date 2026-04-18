@@ -53,7 +53,7 @@ This system identifies anomalous login activity using unsupervised learning tech
 
 ## 🔗 Live Demo
 
-👉 (Add your deployed link here)
+👉 [(Deployed link here)](https://anomalydetection-geu44sjyunzueygohtzyu5.streamlit.app/)
 
 ---
 
